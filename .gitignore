@@ -1,0 +1,8 @@
+# Ignore compiled files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore node_moodules (for Javascript projects)
+node_modules/
